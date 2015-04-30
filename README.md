@@ -7,3 +7,6 @@ lalala
 ### conociendo la sintaxis de markdown
 * *texto cursiva*
 * **texto negrita**
+
+| # | Nombes  | Apellido Paterno  | Apellido Materno  |
+|---|---------|-------------------|-------------------|
