@@ -1,9 +1,8 @@
 # repositorio-prueba
-Reopitorio para pruebas de funcionalidad de GitHub.
-Agregando comentarios desde el bash de Git.
-Cambios y posterior commit desde el servidor.
-lalala
-================================================
+- [X] Repositorio para pruebas de funcionalidad de GitHub.
+- [X] Agregando comentarios desde el bash de Git.
+- [X] Cambios y posterior commit desde el servidor.
+
 ### conociendo la sintaxis de markdown
 * *texto cursiva*
 * **texto negrita**
