@@ -12,6 +12,7 @@
 |---|---------|-------------------|-------------------|
 | 1 | José    | Rojas             | Castillo          |
 | 2 | Lucio    | Saltie             | Monroe          |
+| 3 | Franz   | Rojas             | Castillo
 
 ## Imagenes en markdown
 ![Los Vengadores 2](http://cdn.screenrant.com/wp-content/uploads/The-Avengers-2-Ultron-Captain-America-Iron-Man-Official.jpg)
