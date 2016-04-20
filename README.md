@@ -1,4 +1,4 @@
-# repositorio-prueba
+﻿# repositorio-prueba
 - [X] Repositorio para pruebas de funcionalidad de GitHub.
 - [X] Agregando comentarios desde el bash de Git.
 - [X] Cambios y posterior commit desde el servidor.
@@ -15,3 +15,5 @@
 
 ## Imagenes en markdown
 ![Los Vengadores 2](http://cdn.screenrant.com/wp-content/uploads/The-Avengers-2-Ultron-Captain-America-Iron-Man-Official.jpg)
+
+### CLONAR REPOSITORIO REMOTO
