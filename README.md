@@ -7,7 +7,7 @@
 * *texto cursiva*
 * **texto negrita**
 
-### Tablas en Markdown
+### Tablas en Markdown modificado
 | # | Nombes  | Apellido Paterno  | Apellido Materno  |
 |---|---------|-------------------|-------------------|
 | 1 | José    | Mujica             | Caceres          |
